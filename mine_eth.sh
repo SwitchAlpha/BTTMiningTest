@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user DOGE:DHxKgzLZ9g9Er85UXbW39stpRpjG55LHRp.GGL $@
+./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user BTT:TC2v1s1YrepXxXcvjwUoJYvfRr9gownc4D.GGL $@
